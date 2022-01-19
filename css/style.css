@@ -60,13 +60,11 @@ footer {
     
 }
 
-
 .margin-bot10 {
     margin-bottom: 10px;
 }
 
-
-div.margin-right10, section.margin-right10{
+div.central, section.margin-right10{
     margin-right: 10px;
 }
 
