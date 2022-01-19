@@ -22,7 +22,7 @@ footer {
 }
 
 .main-container {
-    max-width: 80%;
+    max-width: 40%;
     margin: 40px auto;
 }
 
@@ -52,7 +52,7 @@ footer {
 }
 
 .container2 section {
-    width: calc(25% )
+    width: calc(25%);
 }
 
 .container2 .central {
