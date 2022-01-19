@@ -48,6 +48,7 @@ footer {
 .container2 .header {
     height: 100px;
     width: 100%;
+    
 }
 
 .container2 section {
@@ -59,14 +60,16 @@ footer {
     
 }
 
-div.container2{
+
+.margin-bot10 {
     margin-bottom: 10px;
 }
+
 
 div.margin-right10, section.margin-right10{
     margin-right: 10px;
 }
 
-div.margin-bot25{
+header,div.margin-bot25{
     margin-bottom: 25px;
 }
