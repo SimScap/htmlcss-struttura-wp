@@ -33,6 +33,7 @@ footer {
 
 .container2 {
     background-color: #086ac0;
+    margin-bottom: 10px;
 }
 
 .lightblue {
@@ -60,9 +61,6 @@ section.lightblue, div.central{
     
 }
 
-.margin-bot10 {
-    margin-bottom: 10px;
-}
 
 div.central, section.margin-right10{
     margin-right: 10px;
