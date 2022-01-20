@@ -40,10 +40,10 @@ footer {
     float: left;
 }
 
-
-.lightblue-h8 {
+section.lightblue, div.central{
     height: 500px;
 }
+
 
 .container2 .header {
     height: 100px;
